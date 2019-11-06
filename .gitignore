@@ -1,6 +1,6 @@
 .env
 package-lock.json
-dist/
+# dist/ -- WARNING: publish our unofficial version
 bower_components/
 node_modules/
 sauce_connect/
